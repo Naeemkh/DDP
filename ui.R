@@ -49,9 +49,8 @@ mainPanel(
                            indication of seismicity of the study region. Higher b-value suggests that the number of earthquke with higher magnitude was fairly
                            low in the study region. The b-value is calculated using the following equation: log(e)/(mean(M) - min(M)), where e is the mathematical
                            constant (e=2.718281), and M is all earthquakes of the filtered catalog. Popup icon represents the Cneter for Earthquake Reseach and
-                           Information."
-                            
-                            )
+                           Information. Github repo: https://github.com/Naeemkh/DDP"
+                                                        )
 ))
 
 
